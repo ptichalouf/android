@@ -407,6 +407,9 @@
   <project path="external/doclava" name="android_external_doclava" remote="pa" revision="jb43" />
   <project path="vendor/pa" name="android_vendor_pa" remote="pa" revision="jb43" />
   <project path="packages/apps/HALO" name="HALO" remote="pac" />
+  
+  <!-- GAPPS -->
+  <project path="vendor/ganbarou/gapps" name="beegee-tokyo/ganbarou_vendor_gapps_43" remote="github" revision="cm-10.2" />
 
   <!-- PAC -->
   <project path="android" name="android" remote="pac" />
